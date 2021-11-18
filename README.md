@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Richard Tavares, seja muito bem-vindo(a) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 <br>
 <div>
 
@@ -26,5 +25,6 @@
   <a href = "mailto:richard.jstavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-tavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/RichardTavares/RichardTavares/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/richardtavares/richardtavares/blob/output/github-contribution-grid-snake.svg)
+
 </div>
