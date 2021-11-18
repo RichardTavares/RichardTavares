@@ -5,7 +5,7 @@
 <div>
 
 - 👨‍💻 Desenvolvedor Web Full Stack (Iniciante)
-- 🚀 Atualmente trabalhando na Multilaser Industrial S/A
+  - 🚀 Atualmente trabalhando na <a href = "https://www.multilaser.com.br/">Multilaser Industrial S/A</a>
 - 📝 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: richard.jstavares@gmail.com
 </div>
