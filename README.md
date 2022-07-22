@@ -5,7 +5,7 @@
 <div>
 
 - 👨‍💻 Desenvolvedor Web
-- 🚀 Atualmente trabalhando na Multilaser Industrial S/A
+- 🚀 Atualmente trabalhando na Tok&Stok
 - 📝 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: richard.jstavares@gmail.com
 </div>
