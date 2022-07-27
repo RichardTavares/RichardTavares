@@ -2,7 +2,6 @@
 <a href="https://github.com/RichardTavares"></a>
   
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div>
 
 - 👨‍💻 Desenvolvedor Web
@@ -10,7 +9,7 @@
 - 📝 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: richard.jstavares@gmail.com
 </div>
-
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div style="display: inline_block"><br>
 <h2> Tecnologias Utilizadas </h2>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +20,7 @@
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <div>
 <br>
+  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div>
 <h2> Redes Sociais </h2>
   <a href="https://instagram.com/rjst.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
