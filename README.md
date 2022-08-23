@@ -5,7 +5,7 @@
 <div>
 
 - 👨‍💻 Desenvolvedor Web
-- 🚀 Atualmente trabalhando na Tok&Stok
+- 🚀 Atualmente trabalhando no Grupo Multi
 - 📝 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: richard.jstavares@gmail.com
 </div>
