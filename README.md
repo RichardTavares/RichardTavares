@@ -5,7 +5,7 @@
 <div>
 
 - 👨‍💻 Desenvolvedor Web
-- 🚀 Atualmente trabalhando no Grupo Multi
+- 🚀 Atualmente trabalho no Grupo Multi
 - 📝 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: richard.jstavares@gmail.com
 </div>
