@@ -1,13 +1,12 @@
-### Olá! Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github.com/RichardTavares"></a>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-<br>
+
+<h1>Olá! Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <div>
   <ul>
-    <li>👨‍💻 Desenvolvedor Web</li>
-    <li>🚀 Trabalhando atualmente no Grupo Multi</li>
-    <li>📝 Cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>📧 E-mail: <a href="mailto:richard.jstavares@gmail.com" target="_blank">richard.jstavares@gmail.com</a></li>
+    <li><p style="font-size: medium;">👨‍💻 Desenvolvedor Web</p></li>
+    <li><p style="font-size: medium;">🚀 Trabalhando atualmente no Grupo Multi</p></li>
+    <li><p style="font-size: medium;">📝 Cursando Análise e Desenvolvimento de Sistemas</p></li>
+    <li><p style="font-size: medium;">📧 E-mail: <a href="mailto:richard.jstavares@gmail.com" target="_blank">richard.jstavares@gmail.com</a></p></li>
   </ul>
 </div>
 <div style="display: inline_block">
