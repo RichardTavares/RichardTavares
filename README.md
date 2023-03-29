@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá! Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://github.com/RichardTavares"></a>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <br>
@@ -50,5 +50,4 @@
   <h1></h1>
 
   ![Snake animation](https://github.com/RichardTavares/RichardTavares/blob/output/github-contribution-grid-snake.svg)
-
 </div>
