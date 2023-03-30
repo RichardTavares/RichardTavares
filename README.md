@@ -40,7 +40,7 @@
   <img align="center" alt="TS" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 <div>
-  <h1></h1>
+  <h2>Github Status</h2>
   <a href="https://github.com/RichardTavares">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RichardTavares&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" /><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardTavares&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
   </a>
