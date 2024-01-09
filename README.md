@@ -46,6 +46,5 @@
 </div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%">
+    <img src="https://github.com/RichardTavares/RichardTavares/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
-
-![snake gif](https://github.com/RichardTavares/RichardTavares/blob/output/github-contribution-grid-snake.svg)
