@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%">
 <div align="center">
   <h1>Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Banner" width="25px"></h1>
-  <p style="font-size: medium;">Meu nome é Richard, tenho 23 anos, trabalho atualmente como Analista de Software Pleno no Grupo Multi e estou cursando Análise e Desenvolvimento de Sistemas.<br>
+  <p style="font-size: medium;">Meu nome é Richard, tenho 24 anos, trabalho atualmente como Analista de Software Pleno no Grupo Multi e estou cursando Análise e Desenvolvimento de Sistemas.<br>
     Tenho experiência em desenvolvimento web e análise de dados.
   </p>
 </div>
