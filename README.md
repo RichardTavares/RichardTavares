@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5500&random=false&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack" alt="Typing SVG" />
     </a>
     <h2>Sobre</h2>
-    <p style="font-size: medium;">Desenvolvedor web full stack com mais de 3 anos de experiência, participando ativamente de todas as fases dos projetos, do planejamento ao deploy. Estou no último semestre do curso de análise e desenvolvimento de sistemas. Busco me manter atualizado com as últimas tecnologias e gosto de aplicar a melhoria contínua.
+    <p style="font-size: medium;">Desenvolvedor web full stack com mais de 3 anos de experiência, trabalho atualmente no Grupo Multi participando ativamente de todas as fases dos projetos, do planejamento ao deploy. Estou no último semestre do curso de análise e desenvolvimento de sistemas. Busco me manter atualizado com as últimas tecnologias e gosto de aplicar a melhoria contínua.
     </p>
 </div>
 <div style="display: inline_block">
