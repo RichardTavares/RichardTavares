@@ -1,9 +1,11 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5500&random=false&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5500&center=true&vCenter=true&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack" alt="Typing SVG" />
     </a>
     <h2>Sobre</h2>
-    <p style="font-size: medium;">Desenvolvedor full stack com mais de 3 anos de experiência, participando ativamente de todas as fases dos projetos, desde o planejamento até o deploy. Estou no último semestre do curso de análise e desenvolvimento de sistemas. Busco me manter atualizado com as últimas tecnologias, sempre aplicando a melhoria contínua.
+    <p style="font-size: medium; text-align: center;">
+        Desenvolvedor Full Stack com mais de 3 anos de experiência, atualmente cursando Análise e Desenvolvimento de Sistemas.<br>
+        Atuando em todas as etapas dos projetos, desde a concepção até a implantação, melhorias contínuas e suporte técnico.
     </p>
 </div>
 <div style="display: inline_block" align="center">
