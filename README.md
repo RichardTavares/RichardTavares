@@ -4,8 +4,7 @@
     </a>
     <h2>Sobre</h2>
     <p style="font-size: medium; text-align: center;">
-        Desenvolvedor Full Stack com mais de 3 anos de experiência, atualmente cursando Análise e Desenvolvimento de Sistemas.<br>
-        Atuando em todas as etapas dos projetos, desde a concepção até a implantação, melhorias contínuas e suporte técnico.
+        Desenvolvedor Full Stack com mais de 3 anos de experiência, contribuindo em todas as etapas de projetos, desde a concepção até a implantação, com formação em Análise e Desenvolvimento de Sistemas.
     </p>
 </div>
 <div style="display: inline_block" align="center">
