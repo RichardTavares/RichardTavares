@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%" />
     <h2>Sobre</h2>
     <p style="font-size: medium; text-align: center;">
-        Desenvolvedor Full Stack com mais de 3 anos de experiência, contribuindo em todas as etapas de projetos, desde a concepção até a implantação, com formação em Análise e Desenvolvimento de Sistemas.
+        Desenvolvedor full stack com mais de 3 anos de experiência e formação em análise e desenvolvimento de sistemas, contribuindo em todas as etapas de projetos, desde a concepção até a implantação.
     </p>
 </div>
 <div style="display: inline_block" align="center">
